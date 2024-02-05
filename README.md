@@ -4,7 +4,7 @@
 
 This repo contains the code and configuration files to reproduce results of federated semi-supervised learning with marginal feature distribution consistency for medical image segmentation.
 
-##Environments
+## Environments
 
 Please refer to ```requirements.txt``` for the version of python libraries I used. I don't suggest to directlly install
 all by ```pip install -r requirements.txt``` because they are many unnecessary dependencies.
